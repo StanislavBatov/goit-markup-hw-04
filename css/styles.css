@@ -244,7 +244,7 @@ img {
 .team-item {
   background-color: var(--white-color);
   border-radius: 0px 0px 4px 4px;
-  box-shadow:var(--navy-blue-color);
+  box-shadow:0px 2px 1px 0px rgba(46, 47, 66, 0.08), 0px 1px 1px 0px rgba(46, 47, 66, 0.16), 0px 1px 6px 0px rgba(46, 47, 66, 0.08);
 }
 
 .team-item:last-child {
@@ -333,10 +333,6 @@ span.white {
 
 .project-item {
   padding-bottom: 32px;
-}
-
-.project-card {
-  width: 100%;
 }
 
 .project-item-text {
